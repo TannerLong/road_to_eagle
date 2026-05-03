@@ -1,1 +1,1 @@
-print("Road to Eagle app is starting!")
+print("Road to Eagle app is starting")
